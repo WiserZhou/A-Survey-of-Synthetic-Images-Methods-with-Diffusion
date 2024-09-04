@@ -6,6 +6,8 @@
 
 - 2023-IEEE-[Diffusion Models in Vision: A Survey](https://ieeexplore.ieee.org/abstract/document/10081412)
 
+- 2021-IEEE-[Deep Learning for Image Super-Resolution: A Survey](https://ieeexplore.ieee.org/abstract/document/9044873)
+
 ### Base Model
 
 - 2022-CVPR-[High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)[[Code](https://github.com/CompVis/latent-diffusion)]
@@ -19,6 +21,14 @@
 ### Model For High Resolution
 
 - 2023-ICML-[simple diffusion: End-to-end diffusion for high resolution images](https://proceedings.mlr.press/v202/hoogeboom23a/hoogeboom23a.pdf)
+
+### Traditional Augmentation Methods
+
+- 2022-CVPR-[TeachAugment: Data Augmentation Optimization Using Teacher Knowledge](https://openaccess.thecvf.com/content/CVPR2022/papers/Suzuki_TeachAugment_Data_Augmentation_Optimization_Using_Teacher_Knowledge_CVPR_2022_paper.pdf)[[Code](https://github.com/DensoITLab/TeachAugment)]
+
+- 2021-CVPR-[SuperMix: Supervising the Mixing Data Augmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf)[[Code](https://github.com/alldbi/SuperMix)]
+
+- 2019-ICCV-[CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)[[Code](https://github.com/clovaai/CutMix-PyTorch)]
 
 ### Mixing General Enhancement Methods
 
@@ -37,6 +47,8 @@
 - 2023-NeurIPS-[Diffusion Self-Guidance for Controllable Image Generation](https://proceedings.neurips.cc/paper_files/paper/2023/file/3469b211b829b39d2b0cfd3b880a869c-Paper-Conference.pdf)[[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
 
 - 2023-ICCV-[SVDiff: Compact Parameter Space for Diffusion Fine-Tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_SVDiff_Compact_Parameter_Space_for_Diffusion_Fine-Tuning_ICCV_2023_paper.pdf)
+
+- 2024-WACV-[Training-Free Layout Control with Cross-Attention Guidance](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf)
 
 ### Prompts
 
@@ -101,3 +113,13 @@
 - 2023-ICCV-[Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Prompt_Tuning_Inversion_for_Text-driven_Image_Editing_Using_Diffusion_Models_ICCV_2023_paper.pdf)
 
 - 2022-NeurIPS-[One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations](https://proceedings.neurips.cc/paper_files/paper/2022/file/a0a53fefef4c2ad72d5ab79703ba70cb-Paper-Conference.pdf)[[Code](https://github.com/kristen-rang/FFCLIP)]
+
+- 2023-CVPR-[InstructPix2Pix: Learning to Follow Image Editing Instructions](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)[[Code](https://github.com/timothybrooks/instruct-pix2pix)]
+
+### Super Resolution
+
+- 2024-CVPR-[Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Beyond_Image_Super-Resolution_for_Image_Recognition_with_Task-Driven_Perceptual_Loss_CVPR_2024_paper.pdf)[[Code](https://github.com/JaehaKim97/SR4IR)]
+
+- 2024-CVPR-[Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Low-Res_Leads_the_Way_Improving_Generalization_for_Super-Resolution_by_Self-Supervised_CVPR_2024_paper.pdf)
+
+- 2023-NeurIPS-[ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf)[[Code](https://github.com/zsyOAOA/ResShift)]
