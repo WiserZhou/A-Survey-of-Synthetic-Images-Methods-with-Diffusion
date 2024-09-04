@@ -1,6 +1,6 @@
 # A-Survey-of-Synthetic-Images-Methods-with-Diffusion
 
-## Papers [Data Augmentation]
+## Papers
 
 ### Survey
 
