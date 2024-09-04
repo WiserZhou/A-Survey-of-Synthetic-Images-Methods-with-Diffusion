@@ -100,6 +100,8 @@
 
 - 2023-ICCV-[Controllable Inversion of Black-Box Face Recognition Models via Diffusion](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/papers/Kansy_Controllable_Inversion_of_Black-Box_Face_Recognition_Models_via_Diffusion_ICCVW_2023_paper.pdf)
 
+- 2023-ICLR-[An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://openreview.net/pdf?id=NAQvF08TcyG)[[Code](https://github.com/rinongal/textual_inversion)]
+
 ### Image Variation
 
 - 2023-NeurIPS-[Real-World Image Variation by Aligning Diffusion Inversion Chain](https://proceedings.neurips.cc/paper_files/paper/2023/file/61960fdfda4d4e95fa1c1f6e64bfe8bc-Paper-Conference.pdf)[[Code](https://github.com/dvlab-research/RIVAL)]
