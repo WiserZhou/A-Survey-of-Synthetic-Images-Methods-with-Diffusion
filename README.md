@@ -22,6 +22,11 @@
 
 - 2023-ICML-[simple diffusion: End-to-end diffusion for high resolution images](https://proceedings.mlr.press/v202/hoogeboom23a/hoogeboom23a.pdf)
 
+### Personalization
+
+- 2023-CVPR-[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)  [[Slides](https://cvpr2023.thecvf.com/media/cvpr-2023/Slides/23180.pdf)]
+
+- 2023-NIPS-[Visual Instruction Inversion: Image Editing via Visual Prompting](https://thaoshibe.github.io/visii/) 
 ### Traditional Augmentation Methods
 
 - 2022-CVPR-[TeachAugment: Data Augmentation Optimization Using Teacher Knowledge](https://openaccess.thecvf.com/content/CVPR2022/papers/Suzuki_TeachAugment_Data_Augmentation_Optimization_Using_Teacher_Knowledge_CVPR_2022_paper.pdf)[[Code](https://github.com/DensoITLab/TeachAugment)]
